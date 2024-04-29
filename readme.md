@@ -1,31 +1,12 @@
-# Simple Tailwind CSS Starter
+**shortly**
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is a mini project created in order to practice Tailwind CSS & responsive design
 
-## Usage
+**Built with: TailwindCSS**
 
-Install dependencies
+**Live link:**
 
-```
-npm install
-```
+https://adrians90.github.io/shortly/
 
-Run Tailwind CLI in watch mode
 
-```
-npm run dev
-```
-
-You can use tailwind classes in any .html files in the root directory
-
-Put any custom CSS that you may have in the **src/input.css** file
-
-Add any config values to the **tailwind.config.js** file
-
-To build once, run
-
-```
-npm run build
-```
-
-You only need to deploy your html files and css/style.css
+![image](https://github.com/adrians90/shortly/assets/128593202/568e9bd7-f228-494a-a497-8200cb557a5f)
